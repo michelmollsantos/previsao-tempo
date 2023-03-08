@@ -1,6 +1,6 @@
 "use strict"
 
-//306a7b2b4d1ed5a14ebb419a42d705a4
+
 
 const url = "https://api.openweathermap.org/data/2.5/weather?q=Sao+Paulo&appid=306a7b2b4d1ed5a14ebb419a42d705a4&lang=pt_br";
 
