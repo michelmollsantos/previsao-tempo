@@ -7,12 +7,12 @@ Country Flag API: mostra a bandeira do pais da cidade escolhida.
 
 Para executar o projeto basta abrir o index.
 
-<img src:"https://github.com/michelmollsantos/previsao-tempo/blob/master/assets/imagem-projeto.jpg">
+![alt text](https://github.com/michelmollsantos/previsao-tempo/blob/master/assets/imagem-projeto.jpg)
 
 
 
 você pode escolher uma cidade sugerida na pagina inicial ou digitar uma cidade na barra de busca.
-<img src: "https://github.com/michelmollsantos/previsao-tempo/blob/master/assets/imagem-projeto2.jpg">
+![alt text](https://github.com/michelmollsantos/previsao-tempo/blob/master/assets/imagem-projeto2.jpg)
 
 
 
